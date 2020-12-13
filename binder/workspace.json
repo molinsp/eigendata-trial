@@ -14,20 +14,21 @@
                      "type":"tab-area",
                      "currentIndex":0,
                      "widgets":[
-                        "notebook:demo/Demo.ipynb"
+                        "dv:dv",
+                        "notebook:Untitled.ipynb"
                      ]
                   },
                   {
                      "type":"tab-area",
                      "currentIndex":0,
                      "widgets":[
-                        "ed:open"
+                        "ed:ed"
                      ]
                   }
                ]
             },
             "mode":"multiple-document",
-            "current":"notebook:demo/Demo.ipynb"
+            "current":"dv:dv"
          },
          "left":{
             "collapsed":false,
@@ -46,8 +47,23 @@
             ]
          }
       },
-      "file-browser-filebrowser:cwd":{
-         "path":"demo"
+      "@jupyterlab/settingeditor-extension:plugin":{
+         "sizes":[
+            0.20461309523809523,
+            0.7953869047619048
+         ],
+         "container":{
+            "plugin":"@molinsp/eigendata:plugin",
+            "sizes":[
+               0.47331460674157305,
+               0.526685393258427
+            ]
+         }
+      },
+      "dv:dv":{
+         "data":{
+            
+         }
       },
       "notebook:demo/Demo.ipynb":{
          "data":{
@@ -55,10 +71,9 @@
             "factory":"Notebook"
          }
       },
-      "help-doc:https://jupyterlab.readthedocs.io/en/stable/":{
+      "ed:ed":{
          "data":{
-            "url":"https://jupyterlab.readthedocs.io/en/stable/",
-            "text":"JupyterLab Reference"
+            
          }
       }
    },
