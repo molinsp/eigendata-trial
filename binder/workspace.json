@@ -65,6 +65,9 @@
             
          }
       },
+      "file-browser-filebrowser:cwd":{
+         "path":"demo"
+      },
       "notebook:demo/Demo.ipynb":{
          "data":{
             "path":"demo/Demo.ipynb",
