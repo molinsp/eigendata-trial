@@ -49,9 +49,9 @@
       "file-browser-filebrowser:cwd":{
          "path":"demo"
       },
-      "notebook:demo/Lorenz.ipynb":{
+      "notebook:demo/Demo.ipynb":{
          "data":{
-            "path":"demo/Lorenz.ipynb",
+            "path":"demo/Demo.ipynb",
             "factory":"Notebook"
          }
       },
