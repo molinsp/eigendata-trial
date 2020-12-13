@@ -49,8 +49,8 @@
       },
       "@jupyterlab/settingeditor-extension:plugin":{
          "sizes":[
-            0.20461309523809523,
-            0.7953869047619048
+            0.15,
+            0.85
          ],
          "container":{
             "plugin":"@molinsp/eigendata:plugin",
