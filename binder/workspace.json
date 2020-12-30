@@ -28,7 +28,7 @@
                ]
             },
             "mode":"multiple-document",
-            "current":"dv:dv"
+            "current":"ed:ed"
          },
          "left":{
             "collapsed":false,
@@ -37,7 +37,10 @@
                "filebrowser",
                "running-sessions",
                "command-palette",
-               "tab-manager"
+               "jp-property-inspector",
+               "tab-manager",
+               "@jupyterlab/toc:plugin",
+               "extensionmanager.main-view"
             ]
          },
          "right":{
@@ -49,29 +52,26 @@
       },
       "@jupyterlab/settingeditor-extension:plugin":{
          "sizes":[
-            0.15,
-            0.85
+            0.1,
+            0.9
          ],
          "container":{
             "plugin":"@molinsp/eigendata:plugin",
             "sizes":[
-               0.47331460674157305,
-               0.526685393258427
+               0.5,
+               0.5
             ]
          }
-      },
-      "dv:dv":{
-         "data":{
-            
-         }
-      },
-      "file-browser-filebrowser:cwd":{
-         "path":"demo"
       },
       "notebook:demo/Demo.ipynb":{
          "data":{
             "path":"demo/Demo.ipynb",
             "factory":"Notebook"
+         }
+      },
+      "dv:dv":{
+         "data":{
+            
          }
       },
       "ed:ed":{
