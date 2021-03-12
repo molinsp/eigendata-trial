@@ -5,3 +5,9 @@ jupyter labextension install @molinsp/eigendata --minimize=False
 
 # Setup a workspace
 jupyter lab workspaces import workspace.json
+
+rm LICENSE
+rm README.md
+rm environment.yml
+rm workspace.json
+rm postBuild
