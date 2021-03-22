@@ -11,6 +11,9 @@ dependencies:
  - nodejs>10.14.0
  - jupyterlab=2.2.6
  - jupyterhub=1.2.2
+ - xlrd=1.2.0
+ - fuzzywuzzy=0.18.0
+ - plotly=4.14.1
  - pip
  - pip:
     - fastdata
