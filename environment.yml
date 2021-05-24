@@ -12,8 +12,10 @@ dependencies:
  - jupyterlab=2.2.6
  - jupyterhub=1.2.2
  - xlrd=1.2.0
- - fuzzywuzzy=0.18.0
+ - rapidfuzz=1.4.1
+ - missingno=0.4.2 
  - plotly=4.14.1
+ - nbgitpuller
  - pip
  - pip:
     - fastdata
