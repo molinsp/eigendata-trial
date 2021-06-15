@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Install a JupyterLab extension for demonstration purposes
-jupyter labextension install @molinsp/eigendata --minimize=False
-jupyter labextension install jupyterlab-plotly@4.14.3
-
 # Setup a workspace
 jupyter lab workspaces import workspace.json
 
