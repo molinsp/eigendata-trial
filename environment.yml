@@ -20,4 +20,4 @@ dependencies:
     - fastdata
     - eigendata==0.3.1
     - airtable-python-wrapper
-    - plotly>=5.0.0rc2
+    - plotly==5.0.0
